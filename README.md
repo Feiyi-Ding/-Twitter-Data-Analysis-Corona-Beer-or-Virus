@@ -8,7 +8,7 @@
 
 ### Data Source
 * Data Extraction Method: [snscrape](https://github.com/JustAnotherArchivist/snscrape#readme) 
-* PS: It takes a long time to crawl the original data. In the repository, I only put the data set after data preparation.For the full data, please check my [google drive](https://drive.google.com/drive/folders/1JD6y0nGpiVNcN-36tuSicUdxkbrRMC7Y?usp=sharing)
+* PS: It takes a long time to crawl the original data. In the repository, I only put the data set after data preparation.
 
 ### Project Structure
 * Data Extraction: [01_tweet_bson.ipynb](https://github.com/Feiyi-Ding/Portfolio/blob/main/corona_NLP/01_tweet_bson.ipynb)
